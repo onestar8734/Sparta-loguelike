@@ -1,0 +1,2 @@
+# Sparta-loguelike
+ teamsparta
